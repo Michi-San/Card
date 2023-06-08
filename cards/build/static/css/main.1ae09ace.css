@@ -1,0 +1,2 @@
+.card-container{display:flex;flex-wrap:wrap;justify-content:center}.card{align-items:center;background-color:#d5d5d5;border-radius:10px;margin:0 10px 20px;min-height:100px;min-width:100px;padding:20px;width:34%}.card:hover{cursor:pointer;opacity:.7;-webkit-transform:scale(1.05);transform:scale(1.05);transition:1s}.card-title{font-size:1.2em;margin-bottom:10px}.card-content{font-size:.9em}
+/*# sourceMappingURL=main.1ae09ace.css.map*/
